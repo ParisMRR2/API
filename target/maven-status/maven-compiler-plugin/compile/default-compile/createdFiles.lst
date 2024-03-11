@@ -1,0 +1,5 @@
+com\example\RRPMSpringBootAPI\repositories\UsuarioRepository.class
+com\example\RRPMSpringBootAPI\RrpmSpringBootApiApplication.class
+com\example\RRPMSpringBootAPI\models\usuarioModel.class
+com\example\RRPMSpringBootAPI\services\UsuarioService.class
+com\example\RRPMSpringBootAPI\controllers\UsuarioController.class

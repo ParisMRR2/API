@@ -1,0 +1,8 @@
+----Ver puertos en uso----
+netstat -ao
+
+----Buscar puerto en especifico----
+netstat -ao | find "8083"
+
+----Eliminar tarea que está usando ese puerto-----
+taskkill /F /PID NumeroPID
